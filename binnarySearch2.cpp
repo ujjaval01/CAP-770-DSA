@@ -1,5 +1,3 @@
-// ADDED COMMOIY
-
 #include <iostream>
 using namespace std;
 
